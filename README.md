@@ -1,4 +1,4 @@
-# ML-for-Customer-Market-Segmentations
+# Unsupervised Machine Learning for Customer Market Segmentation
 Apply PCA and k-means clustering ML algorithm to train data and obtain the optimal number of clusters
 
 Objectives: 
